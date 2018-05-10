@@ -33,8 +33,14 @@ Under default path C:\Users\avillaruz>
 * https://code.visualstudio.com/insiders/
 * Theme I use is Cobalt2
 
-# Install Prettier
+# Install ESlint + Prettier
 
-# Install ESlint
+https://www.youtube.com/watch?v=WueETtLWQUU
+https://www.youtube.com/watch?v=WueETtLWQUU
+https://www.youtube.com/watch?v=XfhR8lqQJLU
+https://www.youtube.com/watch?v=pXsj6dcSTIU
+https://www.youtube.com/watch?v=FptDyiK5xro
+https://www.youtube.com/watch?v=XJl_5ZjEsvI
+https://www.youtube.com/watch?v=zJ86sNqcbPU
 
 # Debugging node in VScode
