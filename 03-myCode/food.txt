@@ -1,0 +1,10 @@
+oatmeal
+apple
+pizza
+muffin
+toast
+chocolate
+eggs
+bagel
+bread
+butter

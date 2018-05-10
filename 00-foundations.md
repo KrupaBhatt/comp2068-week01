@@ -8,4 +8,6 @@ See Blackboard > Course Info > Syllabus
 
 ## What's a callback function?
 
+## What's a JS object?
+
 ## What's ES6?
