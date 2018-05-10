@@ -16,6 +16,8 @@ See Blackboard > Course Info > Syllabus
 
 ## What's a JS object?
 
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects
+
 ## What's ES6?
 
 https://devfreebooks.github.io/javascript/
