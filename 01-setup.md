@@ -35,12 +35,12 @@ Under default path C:\Users\avillaruz>
 
 # Install ESlint + Prettier
 
-https://www.youtube.com/watch?v=WueETtLWQUU
-https://www.youtube.com/watch?v=WueETtLWQUU
-https://www.youtube.com/watch?v=XfhR8lqQJLU
-https://www.youtube.com/watch?v=pXsj6dcSTIU
-https://www.youtube.com/watch?v=FptDyiK5xro
-https://www.youtube.com/watch?v=XJl_5ZjEsvI
-https://www.youtube.com/watch?v=zJ86sNqcbPU
+* https://www.youtube.com/watch?v=WueETtLWQUU
+* https://www.youtube.com/watch?v=WueETtLWQUU
+* https://www.youtube.com/watch?v=XfhR8lqQJLU
+* https://www.youtube.com/watch?v=pXsj6dcSTIU
+* https://www.youtube.com/watch?v=FptDyiK5xro
+* https://www.youtube.com/watch?v=XJl_5ZjEsvI
+* https://www.youtube.com/watch?v=zJ86sNqcbPU
 
 # Debugging node in VScode
