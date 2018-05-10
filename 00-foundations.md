@@ -1,3 +1,7 @@
+# Fun
+
+https://play.kahoot.it/#/k/b34237cd-9e79-4087-b99a-8645a9bd7954
+
 # Go over syllabus
 
 See Blackboard > Course Info > Syllabus
